@@ -3,4 +3,4 @@
 *.html linguist-detectable=false
 *.c linguist-detectable=false
 *.js linguist-detectable=false
-*.m linguist-detectable=true
+*.mat linguist-detectable=true
