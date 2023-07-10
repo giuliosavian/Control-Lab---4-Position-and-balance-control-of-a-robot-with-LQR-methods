@@ -2,4 +2,5 @@
 *.html linguist-detectable=false
 *.c linguist-detectable=false
 *.js linguist-detectable=false
-*.mu linguist-detectable=true
+*.m linguist-detectable=true
+*.c linguist-detectable=false
