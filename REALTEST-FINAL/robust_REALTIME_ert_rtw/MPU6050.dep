@@ -1,0 +1,47 @@
+MPU6050.o: \
+ X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/blocks/MPU6050/lib/MPU6050/MPU6050.cpp \
+ X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/blocks/MPU6050/lib/MPU6050/MPU6050.h \
+ X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/lib/i2cdevlib/I2Cdev.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/WString.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Print.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Printable.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/lib/Wire/src/Wire.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Stream.h
+
+X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/blocks/MPU6050/lib/MPU6050/MPU6050.h:
+
+X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/lib/i2cdevlib/I2Cdev.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/WString.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Print.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Printable.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+X:/LabControlli/MATLAB/Toolboxes/BalRobot_v3/lib/Wire/src/Wire.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020b/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Stream.h:
